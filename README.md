@@ -1,4 +1,4 @@
 # hello-world
 Learning about GitHub
 
-I'm just a dude trying to learn about this stuff called GitHub and it seems like its making sense.
+I'm just a dude who wants to learn from another dude who's not willing to teach me.
